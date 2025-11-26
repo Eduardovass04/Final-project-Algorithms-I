@@ -202,6 +202,7 @@ Código usa: estruturas de seleção, laços de repetição, vetores e funções
 # 🖼️ Demonstração visual (sugestão de prints)
 
 * Menu principal
+* <img width="606" height="291" alt="MENU PRINCIPAL" src="https://github.com/user-attachments/assets/9c6327ba-1aa2-4545-a2c3-dd89be55638d" />
 * Cadastro de abelhas + listagem com pelo menos 3 registros
 * Cadastro de sensor (validação de ID)
 * Busca de sensores por ID da abelha
