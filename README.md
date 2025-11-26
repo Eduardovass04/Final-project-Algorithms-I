@@ -1,4 +1,21 @@
+Refaça e substitua estas planilhas que você fez a partir de funcionalidades e funções, faça que nem este exemplo, ( Funcionalidades
+📝 Cadastrar Produto
 
+Impede códigos duplicados
+Validação de entrada
+Limite de 100 produtos) (🔧 Visão Geral das Funções
+📌 Cadastro
+void cadastrarProduto()
+
+Argumentos: nenhum
+Retorno: nenhum
+Descrição: Solicita dados do usuário para cadastrar um novo produto no estoque, realizando validações como código único e valores válidos.
+🔍 Consulta
+void consultarProduto()
+
+Argumentos: nenhum
+Retorno: nenhum
+Descrição: Solicita o código do produto e exibe todas as informações cadastradas caso o produto seja encontrado.) aqui está o readme a ser alterado: 
 
 # 📦 Sistema de Monitoramento de Colmeias (BeeMonitor C)
 
