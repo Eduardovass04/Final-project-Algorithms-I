@@ -202,12 +202,17 @@ Código usa: estruturas de seleção, laços de repetição, vetores e funções
 # 🖼️ Demonstração visual (sugestão de prints)
 
 * Menu principal
-* <img width="606" height="291" alt="MENU PRINCIPAL" src="https://github.com/user-attachments/assets/9c6327ba-1aa2-4545-a2c3-dd89be55638d" />
-* Cadastro de abelhas + listagem com pelo menos 3 registros
-* Cadastro de sensor (validação de ID)
+*<img width="344" height="192" alt="Captura de tela 2025-11-26 201629" src="https://github.com/user-attachments/assets/ca1ce2fd-5c87-4f52-9b32-7faa35dc094a" />
+* Menu de Abelhas
+* <img width="346" height="212" alt="Captura de tela 2025-11-26 201718" src="https://github.com/user-attachments/assets/10a0218a-a777-4f5f-8f9b-ccf4235a36f6" />
+* Cadastrar Abelhas
+* <img width="509" height="186" alt="Captura de tela 2025-11-26 201953" src="https://github.com/user-attachments/assets/e7f359eb-5126-48e3-b63b-e7060c09bf39" />
 * Busca de sensores por ID da abelha
+* <img width="477" height="171" alt="Captura de tela 2025-11-26 202244" src="https://github.com/user-attachments/assets/c4c4abed-8657-49f0-ba2d-e1c900f87b08" />
 * Remoção e reorganização (antes e depois)
+* <img width="391" height="259" alt="Captura de tela 2025-11-26 202517" src="https://github.com/user-attachments/assets/1b9e642f-c4c2-496c-ba4b-56b41654af21" />
 * Saída dos relatórios (média de mel e contagem por região)
+* 
 
 ---
 
