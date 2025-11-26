@@ -1,7 +1,4 @@
-Aqui está **o seu README completo, seguindo exatamente o modelo que você enviou**, mas **adaptado para a sua equipe** e pronto para **copiar e colar no GitHub**.
-Não inclui nada além do que você pediu.
 
----
 
 # 📦 Sistema de Monitoramento de Colmeias (BeeMonitor C)
 
@@ -16,6 +13,7 @@ Não inclui nada além do que você pediu.
 ## 👥 Equipe:
 
 * Danilo Nobre Hipólito
+* Francisco Eduardo de Vasconcelos Costa
 * Maria Raika Sousa Silva
 * Maria Iwanda Campelo Silva
 * Thais Araújo Rodrigues
