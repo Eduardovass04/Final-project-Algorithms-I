@@ -26,7 +26,7 @@ Equipe:
 
 O BeeMonitor C é um sistema em linguagem C para cadastrar e monitorar abelhas sem ferrão e sensores ambientais.
 Permite cadastro, listagem, busca, alteração, remoção e geração de relatórios simples (médias e contagens).
-Código usa: estruturas de seleção, laços de repetição, vetores e funções.
+ O código possui é usa : estruturas de seleção, laços de repetição, vetores e funções.
 
 ---
 
