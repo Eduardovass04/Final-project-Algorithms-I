@@ -202,18 +202,27 @@ Código usa: estruturas de seleção, laços de repetição, vetores e funções
 # 🖼️ Demonstração visual (sugestão de prints)
 
 * Menu principal
+  
 *<img width="344" height="192" alt="Captura de tela 2025-11-26 201629" src="https://github.com/user-attachments/assets/ca1ce2fd-5c87-4f52-9b32-7faa35dc094a" />
 
 
+
+
 * Menu de Abelhas
+  
 * <img width="346" height="212" alt="Captura de tela 2025-11-26 201718" src="https://github.com/user-attachments/assets/10a0218a-a777-4f5f-8f9b-ccf4235a36f6" />
 
 
+
+
 *   Cadastrar Abelhas
+  
 * <img width="509" height="186" alt="Captura de tela 2025-11-26 201953" src="https://github.com/user-attachments/assets/e7f359eb-5126-48e3-b63b-e7060c09bf39" />
 <img width="494" height="192" alt="Captura de tela 2025-11-26 203252" src="https://github.com/user-attachments/assets/6fde4e14-19af-42cf-854a-588ccd6b04a7" />
 
+
 * Listar sensores
+  
 *  <img width="367" height="333" alt="Captura de tela 2025-11-26 204108" src="https://github.com/user-attachments/assets/61881fae-5357-4a52-bc00-d170d2e5c89d" />
 
 
@@ -222,16 +231,20 @@ Código usa: estruturas de seleção, laços de repetição, vetores e funções
 
 
 * Remoção e reorganização (antes e depois)
+  
 * <img width="394" height="303" alt="Captura de tela 2025-11-26 205627" src="https://github.com/user-attachments/assets/382d06e7-77f6-44db-b3b0-981555d4614e" />
 
 * Saída dos relatórios (média de mel )
+  
 * <img width="706" height="419" alt="Captura de tela 2025-11-26 203504" src="https://github.com/user-attachments/assets/76e77fb2-e602-4c56-b19d-e937a7d679e5" />
 
 * Media De Temperatura
+  
 * <img width="572" height="267" alt="Captura de tela 2025-11-26 205044" src="https://github.com/user-attachments/assets/f04404ae-05ee-4104-9e1b-5b1fb9e801db" />
 
 
 * Contagem por Região
+  
 * <img width="597" height="206" alt="Captura de tela 2025-11-26 205111" src="https://github.com/user-attachments/assets/dae118ff-3c0b-4f30-a9b2-03179cbe8613" />
 
 
