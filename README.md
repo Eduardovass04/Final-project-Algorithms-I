@@ -1,4 +1,4 @@
-Certo — fiz uma versão **simples, sem tabelas**, com tudo em listas claras, uma seção por linha (pronto para colar no README). Mantive as funcionalidades e a visão das funções no formato que você pediu.
+
 
 ---
 
