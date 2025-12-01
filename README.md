@@ -20,6 +20,14 @@ Equipe:
 
 ---
 
+
+## 🚀 Modelo de Dados do Projeto Streaming
+
+![Abelha programando no computador - GIF animado](<img width="1098" height="799" alt="Gemini_Generated_Image_ppmrg5ppmrg5ppmr" src="https://github.com/user-attachments/assets/3bc4043c-c1da-46d4-9c4b-64ede4597b30" />)
+
+
+Este repositório contém o modelo de banco de dados (DER) do nosso sistema de streaming, conforme descrito no Minimundo.
+
 # 📖 Descrição do Projeto
 
 O BeeMonitor C é um sistema em linguagem C para cadastrar e monitorar abelhas sem ferrão e sensores ambientais.
