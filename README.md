@@ -21,7 +21,7 @@ Equipe:
 ---
 
 
-##  Modelo de Dados do Projeto Streaming
+##  Modelo de Dados do Projeto BeeMonitor
 
 ---
 # 📖 Descrição do Projeto
