@@ -4,7 +4,7 @@
 
 # 📦 Sistema de Monitoramento de Colmeias (BeeMonitor C)
 
-# 🏫 Informações do Projeto
+#  Informações do Projeto
 
 Título: Sistema de Monitoramento de Abelhas Sem Ferrão (BeeMonitor C)
 Universidade: Universidade Federal do Piauí – Campus Senador Helvídio Nunes de Barros
@@ -21,7 +21,7 @@ Equipe:
 ---
 
 
-## 🚀 Modelo de Dados do Projeto Streaming
+##  Modelo de Dados do Projeto Streaming
 
 ---
 # 📖 Descrição do Projeto
@@ -48,7 +48,7 @@ Permite cadastro, listagem, busca, alteração, remoção e geração de relató
 
 ---
 
-# ✨ Funcionalidades
+#  Funcionalidades
 
 ## 🐝 Gerenciamento de Abelhas
 
@@ -70,7 +70,7 @@ Permite cadastro, listagem, busca, alteração, remoção e geração de relató
 
   * Remove pelo ID e reorganiza o vetor (deslocamento à esquerda)
 
-## 🤖 Gerenciamento de Sensores
+##  Gerenciamento de Sensores
 
 * Cadastrar sensor
 
